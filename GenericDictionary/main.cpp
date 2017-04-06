@@ -22,7 +22,7 @@ int main() {
     std::cout<<"Now your friend has "<< friendsHeard.getCount()<<" cows."<<std::endl;
     std::cout<<"But we still have "<<heardName.getCount()<<" cows."<<std::endl;
     std::cout<<"Remember to delete your heard"<<std::endl;
-    for(int i=heardName.getCount()-1;i>0;i--){
+    for(int i=heardName.getCount()-1;i>=0;i--){
         heardName.removeByPosition(i);
     }
     std::cout<<"Now we have "<<heardName.getCount()<<" cows,"<<std::endl;
