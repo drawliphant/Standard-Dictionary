@@ -1,0 +1,4 @@
+C:/Users/drawl_000/ClionProjects/GenericDictionary/cmake-build-debug/CMakeFiles/GenericDictionary.dir
+C:/Users/drawl_000/ClionProjects/GenericDictionary/cmake-build-debug/CMakeFiles/Test.dir
+C:/Users/drawl_000/ClionProjects/GenericDictionary/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/drawl_000/ClionProjects/GenericDictionary/cmake-build-debug/CMakeFiles/rebuild_cache.dir

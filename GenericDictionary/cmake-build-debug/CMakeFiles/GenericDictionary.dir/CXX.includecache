@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/drawl_000/ClionProjects/GenericDictionary/Dictionary.cpp
+Dictionary.h
+C:/Users/drawl_000/ClionProjects/GenericDictionary/Dictionary.h
+
+C:/Users/drawl_000/ClionProjects/GenericDictionary/Dictionary.h
+iostream
+-
+string
+-
+KeyValue.h
+C:/Users/drawl_000/ClionProjects/GenericDictionary/KeyValue.h
+
+C:/Users/drawl_000/ClionProjects/GenericDictionary/KeyValue.cpp
+KeyValue.h
+C:/Users/drawl_000/ClionProjects/GenericDictionary/KeyValue.h
+
+C:/Users/drawl_000/ClionProjects/GenericDictionary/KeyValue.h
+
+C:/Users/drawl_000/ClionProjects/GenericDictionary/main.cpp
+iostream
+-
+string
+-
+Dictionary.h
+C:/Users/drawl_000/ClionProjects/GenericDictionary/Dictionary.h
+
